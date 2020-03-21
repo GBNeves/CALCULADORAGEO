@@ -33,7 +33,7 @@
      
     </nav>
     <div class="card" style="width: 18rem;">
-  <img src="Imagens/circulo.png" class="card-img-top" alt="...">
+  <img src="Imagens/trapezio.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Perimetro do Trapezio</h5>
         <?php
